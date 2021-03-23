@@ -28,6 +28,9 @@ public class calculator {
 	public static void sqr(int num1){
 	      System.out.println(num1*num1);
 	  }
+	public static void four(int num1){
+	      System.out.println(num1*num1*num1*num1);
+	  }
 
 
 }
